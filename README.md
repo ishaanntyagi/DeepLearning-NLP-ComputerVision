@@ -84,42 +84,7 @@ This section dives into various NLP techniques, from traditional methods to adva
 
 14-GPT-HuggingFace.ipynb: Introduction to GPT models.
 
-14A-GPT-Story.ipynb: Story generation using GPT.
-
-# 📂 Repository Structure
-.
-├── DeepLearning/
-│   ├── 01-RNN.ipynb
-│   ├── 02-Textual-RNN.ipynb
-│   ├── 03-LSTM.ipynb
-│   ├── 04-Textual-LSTM.ipynb
-│   ├── 05-GRU.ipynb
-│   ├── 06-CNN.ipynb
-│   └── 07-TransFormer.ipynb
-├── NLP/
-│   ├── 01-PreP-Wo-Libs.ipynb
-│   ├── 02-NLTK-PreProcess.ipynb
-│   ├── 03-ScaPy-PreP.ipynb
-│   ├── 04A-Annotations.ipynb
-│   ├── 04B-Annotations.ipynb
-│   ├── 04C-Annotations.ipynb
-│   ├── 05-Stemming.ipynb
-│   ├── 06-BagOfWords.ipynb
-│   ├── 07-Tf-Idf.ipynb
-│   ├── 08A-WordEmbed.ipynb
-│   ├── 08B-KerasEmbed.ipynb
-│   ├── 09-Ann-Nlp.ipynb
-│   ├── 10-Skipgrams.ipynb
-│   ├── 11-ATTENTION.ipynb
-│   ├── 12-Seq2Seq.ipynb
-│   ├── 13-BERT-Sentiments-HuggingFace.ipynb
-│   ├── 13A-BERT-SpamDetec.ipynb
-│   ├── 13B-BERT-Emotions.ipynb
-│   ├── 13C-BERT-QA.ipynb
-│   ├── 13D-BERT-Text-Summary.ipynb
-│   ├── 14-GPT-HuggingFace.ipynb
-│   └── 14A-GPT-Story.ipynb
-└── README.md
+14A-GPT-Story.ipynb: Story generation using GPT
 
 # 🚀 Getting Started
 To run these notebooks, you'll need to set up a Python environment and install the necessary libraries.
